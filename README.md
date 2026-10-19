@@ -1,4 +1,4 @@
-# Gym Venmo Checkout
+# Gym Product Checkout
 
 A mobile-friendly WordPress checkout plugin for gyms and small studios that
 hand off payments to Venmo and give staff a simple sales screen.
